@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AddamLister
 - 👀 I’m interested in hacking
-- 🌱 I’m currently sleeping
+- 🌱 I’m currently contemplating
 - 💞️ I’m looking to collaborate on god
-- 📫 How to reach me i don't even know
+- 📫 How to reach me - addamlister@gmail.com
 
 <!---
 AddamLister/AddamLister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
